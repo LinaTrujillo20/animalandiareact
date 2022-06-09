@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/animalandiareact/static/css/main.58b215b1.css",
+    "main.js": "/animalandiareact/static/js/main.b737b713.js",
+    "static/media/fondo.jpg": "/animalandiareact/static/media/fondo.6732ce654ea91f975480.jpg",
+    "static/media/logo.jpg": "/animalandiareact/static/media/logo.8bba2df5f8edc1228c76.jpg",
+    "index.html": "/animalandiareact/index.html",
+    "main.58b215b1.css.map": "/animalandiareact/static/css/main.58b215b1.css.map",
+    "main.b737b713.js.map": "/animalandiareact/static/js/main.b737b713.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58b215b1.css",
+    "static/js/main.b737b713.js"
+  ]
+}
